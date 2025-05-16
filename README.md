@@ -3,6 +3,12 @@
 This project demonstrates how to anonymize sensitive information from text using Ollama and large language models. Unlike traditional NLP pipelines, this approach dynamically adapts to various languages and formats, making it highly versatile for real-world applications.
 ---
 
+## 📝 Related Blog Post
+
+For a detailed explanation of the approach and comparison with traditional NLP methods, check out the accompanying Medium article:
+
+👉 Read the blog on Medium https://medium.com/@mithilesh007/️-enhancing-text-anonymization-with-ollama-a-smarter-alternative-to-traditional-nlp-05f66618aec2 
+
 ## 🔗 Ollama Setup
 
 1. Visit the Ollama website to install the Ollama CLI and set up your environment.
